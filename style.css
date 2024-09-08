@@ -1,0 +1,14 @@
+/* Custom Styling */
+body {
+  font-family: "Arial", sans-serif;
+}
+
+#home {
+  background: url("img/bg.jpg") no-repeat center center/cover;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
